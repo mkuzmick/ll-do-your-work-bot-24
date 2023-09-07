@@ -1,0 +1,17 @@
+{
+  "name": "ll-do-your-work-bot-24",
+  "version": "1.0.0",
+  "description": "the ll-do-your-work-bot for 23-24",
+  "main": "index.js",
+  "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "dev": "nodemon app.js"
+  },
+  "author": "mk",
+  "dependencies": {
+    "@slack/bolt": "^3.13.3",
+    "airtable": "^0.12.2",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
